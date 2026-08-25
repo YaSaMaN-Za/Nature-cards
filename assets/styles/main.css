@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 body {
     min-height: 100vh;
     display: flex;
@@ -15,7 +14,6 @@ body {
     padding: 40px;
     color: aliceblue;
 }
-
 main {
     width: 100%;
     max-width: 1200px;
